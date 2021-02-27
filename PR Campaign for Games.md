@@ -1,4 +1,4 @@
-
+*Work in progress*
 # PR Campaigns for Games
 This page explores how to plan and run a successful PR campaign for a game. These notes are based on a [GDC Talk](https://www.youtube.com/watch?v=mrZlSDngwH8) from 2018.
 
